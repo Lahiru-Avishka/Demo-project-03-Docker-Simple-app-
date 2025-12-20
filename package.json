@@ -19,6 +19,8 @@
   "homepage": "https://github.com/Lahiru-Avishka/Demo-project-03-Docker-Simple-app-#readme",
   "description": "",
   "dependencies": {
-    "nodemon": "^3.1.11"
+    "gulp": "^5.0.1",
+    "nodemon": "^3.1.11",
+    "webpack": "^5.104.1"
   }
 }
